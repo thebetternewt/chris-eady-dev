@@ -3,6 +3,7 @@ template: SinglePost
 title: Shift (A Timeclock Application)
 status: Published
 date: 2019-07-06T18:37:14.450Z
+featuredImage: 'https://ucarecdn.com/b58cae5d-acc8-484f-9aae-546a5d56fb71/'
 excerpt: >-
   A full-stack timeclock application with a Typescript/GraphQL backend and a
   React frontend.
