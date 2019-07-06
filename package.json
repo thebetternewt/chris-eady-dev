@@ -1,11 +1,11 @@
 {
-  "name": "chris-eady-dev-portfolio",
-  "HomePage": "https://chriseady.dev/",
-  "description": "A portfolio site built with GatsbyJS and Netlify CMS.",
+  "name": "yellowcake",
+  "HomePage": "https://yellowcake.netlify.com/",
+  "description": "An opinionated starter project for creating lightning-fast websites with Gatsby v2 and Netlify CMS v2",
   "version": "2.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thebetternewt/chris-eady-dev"
+    "url": "https://github.com/thriveweb/yellowcake"
   },
   "dependencies": {
     "@reach/router": "^1.2.1",
