@@ -1,30 +1,34 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+title: Chris Eady
+featuredImage: 'https://ucarecdn.com/e9f7809e-682a-4e8e-bf6b-afabc090f418/'
+subtitle: Code. Design. UX.
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: >-
+    Chris Eady is a full-stack Javascript developer who enjoys code, design, and
+    creating an immersive, intuitive user experience.
+  title: 'Chris Eady | Developer, Designer, UX'
 ---
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+Hi. I'm Chris, and welcome to my website. I'm glad you're here!
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+I'm a full-stack developer who focuses primarily on Javascript, but I enjoy dabbling in other pragrammy things as well. Feel free to poke around and see things I've worked on.
 
-# Features
+# Right Now:
 
-* **[Gatsby](https://gatsbyjs.org)** static site generator
-* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
-* Instagram feed integration
+* Really enjoying using React (going on 2 years now).
+* Learning new ways to use hooks daily.
+* Using GraphQL more and more.
+* Enjoying GatsbyJS with the JAMstack architecture.
 
-## Get started
+## Workflow:
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
+Lately, I've been learning to get my head out of code and focus more on design/UX. I recently picked up a [12.9" iPad Pro (1TB)](https://www.apple.com/shop/buy-ipad/ipad-pro) and been using it for design with [Affinity Designer](https://affinity.serif.com/en-us/designer/) to create layouts for clients and projects before reaching for my MacBook Pro and start coding. This shift has helped me to get how of the _how_ and into the _what_. I am able to brainstorm more efficiently and give clients quicker responses with updated layouts as we work on a project together.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+Overall, this shift from a "code-first" approach has been freeing and helped me to think more about the design and user experience before the technical side of things. It also has helped to (mostly) finalize a design so that I can reach for the right tools/framework/packages the first time around instead of coding things up multiple times.
+
+## My Tools:
+
+* [2018 12.9" iPad Pro (1TB)](https://www.apple.com/ipad/) w/[Apple Pencil](https://www.apple.com/apple-pencil/) & [ZUGU case](https://www.amazon.com/ZUGU-CASE-Muse-Case-Protective/dp/B07K1M4PHY/ref=sr_1_4?crid=1L03FT34MMSTQ&keywords=zugo+case+for+ipad+pro+12.9&qid=1562423065&s=gateway&sprefix=zugo+case%2Caps%2C328&sr=8-4)
+* 2017 13" MacBook Pro (base model - no touchbar)
+* [Paperback Moleskine journals](https://www.amazon.com/Moleskine-Cahier-Cover-Journal-Squared/dp/8883704967/ref=sr_1_1_sspa?crid=1RWB4105PV41N&keywords=moleskine+notebook&qid=1562423228&s=gateway&sprefix=mole%2Caps%2C567&sr=8-1-spons&psc=1) for sketching and brainstorming
