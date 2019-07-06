@@ -1,6 +1,6 @@
 ---
 template: BlogIndex
-title: News
+title: Projects
 meta: {}
 ---
 
