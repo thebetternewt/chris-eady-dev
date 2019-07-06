@@ -3,7 +3,7 @@ template: SinglePost
 title: Sarah Pearson Photography
 status: Published
 date: 2019-07-06T16:05:26.336Z
-featuredImage: 'https://ucarecdn.com/dfe55f83-4210-49ff-85f4-1ba570a29098/'
+featuredImage: ''
 excerpt: >-
   A photo blog built with GatsbyJS, styled-components, and Sanity.io backend.
   Hosted on Netlify.
