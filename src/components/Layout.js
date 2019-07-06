@@ -47,7 +47,7 @@ export default ({ children, meta, title }) => {
               ? data.allPosts.edges.map(post => {
                   return { ...post.node.fields, ...post.node.frontmatter }
                 })
-              : false
+              : false,
           }
 
         return (
@@ -73,7 +73,7 @@ export default ({ children, meta, title }) => {
               {...data.settingsYaml}
             />
 
-            <GithubCorner url="https://github.com/thriveweb/yellowcake" />
+            <GithubCorner url="https://github.com/thebetternewt/chris-eady-dev" />
 
             <Nav subNav={subNav} />
 

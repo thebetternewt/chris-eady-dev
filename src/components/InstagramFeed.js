@@ -5,14 +5,14 @@ import './InstagramFeed.css'
 
 export default class InstagramFeed extends Component {
   static defaultProps = {
-    instagramUrl: 'https://instagram.com/instagram',
-    count: 7
+    instagramUrl: 'https://instagram.com/chris_eady',
+    count: 7,
   }
 
   state = {
     mounted: false,
     posts: [],
-    instagramUsername: ''
+    instagramUsername: '',
   }
 
   clearStorage() {
@@ -35,7 +35,7 @@ export default class InstagramFeed extends Component {
       this.fetchInstagram()
       this.setState({
         mounted: true,
-        instagramUsername
+        instagramUsername,
       })
     }
   }
@@ -50,19 +50,19 @@ export default class InstagramFeed extends Component {
 
     if (!insaFeed) {
       typeof window !== 'undefined' &&
-        fetch(`https://instagram.thrivex.io/?ref=thrivegoldcoast`)
+        fetch(`https://www.instagram.com/chris_eady/`)
           .then(res => res.json())
           .then(data => {
             insaFeed = data && data.items ? data.items : []
             localStorage.setItem('insaFeed', JSON.stringify(insaFeed))
             this.setState({
-              posts: insaFeed
+              posts: insaFeed,
             })
           })
           .catch(err => console.error(err))
     }
     this.setState({
-      posts: JSON.parse(insaFeed)
+      posts: JSON.parse(insaFeed),
     })
   }
 

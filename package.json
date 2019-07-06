@@ -1,11 +1,11 @@
 {
-  "name": "yellowcake",
-  "HomePage": "https://yellowcake.netlify.com/",
-  "description": "An opinionated starter project for creating lightning-fast websites with Gatsby v2 and Netlify CMS v2",
+  "name": "chris-eady-dev-portfolio",
+  "HomePage": "https://chriseady.dev/",
+  "description": "A portfolio site built with GatsbyJS and Netlify CMS.",
   "version": "2.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thriveweb/yellowcake"
+    "url": "https://github.com/thebetternewt/chris-eady-dev"
   },
   "dependencies": {
     "@reach/router": "^1.2.1",
@@ -62,5 +62,6 @@
   "devDependencies": {
     "del-cli": "^1.1.0",
     "prettier": "^1.16.1"
-  }
+  },
+  "browsersList": "> 0.5%, last 2 versions, ie 11"
 }

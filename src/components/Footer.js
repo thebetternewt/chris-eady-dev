@@ -5,16 +5,22 @@ import './Footer.css'
 export default () => (
   <div>
     <h2 className="taCenter">
-      Follow us{' '}
-      <a href="https://instagram.com/thrivegoldcoast/">@thrivegoldcoast</a>
+      Follow me{' '}
+      <a
+        href="https://twitter.com/chris_eady/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        @chris_eady
+      </a>
     </h2>
     <br />
-    <InstagramFeed count="8" />
+    {/* <InstagramFeed count="8" /> */}
     <footer className="footer">
       <div className="container taCenter">
         <span>
-          © Copyright {new Date().getFullYear()} All rights reserved. Crafted by{' '}
-          <a href="https://thriveweb.com.au/">Thrive</a>.
+          © Copyright {new Date().getFullYear()} All rights reserved.{' '}
+          <a href="https://chriseady.dev/">Chris Eady</a>.
         </span>
       </div>
     </footer>
