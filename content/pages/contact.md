@@ -8,8 +8,8 @@ address: 'Starkville, MS'
 phone: 662-341-6677
 email: chris@starkvilletech.com
 locations:
-  - lat: '-27.9654732'
-    lng: '153.2432449'
+  - lat: '-33.4527'
+    lng: '88.8135'
     mapLink: ''
 meta:
   description: Contact Chris to start a new project together.
