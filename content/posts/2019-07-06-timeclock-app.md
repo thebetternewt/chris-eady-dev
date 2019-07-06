@@ -9,7 +9,7 @@ excerpt: >-
 categories:
   - category: Projects
 meta:
-  title: Timeclock
+  title: Shift (A Timeclock application)
 ---
 I recently lead a project in my current job at my university where we built a full-stack timeclock application for student employees to clock in and out of their shifts. It was a complex project since students could be active employees in multiple departments, but we had to make sure they could not be clocked into multiple departments at once.
 
