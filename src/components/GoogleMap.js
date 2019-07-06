@@ -7,6 +7,8 @@ if (process.env.GATSBY_NETLIFY_MAP_KEY) {
   mapkey = process.env.GATSBY_NETLIFY_MAP_KEY
 }
 
+console.log('mapkey:', mapkey)
+
 class GoogleMap extends Component {
   static defaultProps = {
     center: {
