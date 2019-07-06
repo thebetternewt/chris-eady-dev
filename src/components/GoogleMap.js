@@ -3,17 +3,17 @@ import GoogleMapReact from 'google-map-react'
 import { MapPin } from 'react-feather'
 
 let mapkey = ''
-if (process.env.NETLIFY_MAP_KEY) {
-  mapkey = process.env.NETLIFY_MAP_KEY
+if (process.env.GATSBY_NETLIFY_MAP_KEY) {
+  mapkey = process.env.GATSBY_NETLIFY_MAP_KEY
 }
 
 class GoogleMap extends Component {
   static defaultProps = {
     center: {
       lat: -28.0914483,
-      lng: 153.4425208
+      lng: 153.4425208,
     },
-    zoom: 14
+    zoom: 14,
   }
 
   render() {
