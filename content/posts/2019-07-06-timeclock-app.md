@@ -47,3 +47,7 @@ We currently built the backend with the awesome [TypeGraphQL library](https://ty
 We will also work on writing some Jest testing for some of our resolvers since there are some pretty complex calculations going on. However, this is an area I need to get some real practice in.
 
 This has been my first big full-stack project deployed to an enterprise environment. I've enjoyed working with Typescript as well. I will likely reach for it in some future projects as well.
+
+**TypeGraphQL backend Github link:** <https://github.com/thebetternewt/timeclock-typescript>
+
+**React frontend Github link:** <https://github.com/thebetternewt/timeclock-3-react>
