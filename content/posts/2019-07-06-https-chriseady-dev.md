@@ -15,4 +15,8 @@ So, I cheated a little and used a starter by [thriveweb](https://thriveweb.com.a
 
 But, I don't really consider it cheating as much as it shows the power, flexibility, and ease of use of a combination of platforms like [GatsbyJS](https://www.gatsbyjs.org/), [Netlify](https://www.netlify.com/), and [NetlifyCMS](https://www.netlifycms.org/). I plan to make some more modifications as time goes on, but the JAMstack architecture continues to amaze me.
 
+As an added bonus, I even set up a _Zap_ with [Zapier](https://zapier.com) to fill out a Google spreadsheet with any contact form submissions. Cool stuff.
+
 Feel free to poke around the site and see if you find anything interesting.
+
+**Github link: **[**https://github.com/thebetternewt/chris-eady-dev**](https://github.com/thebetternewt/chris-eady-dev)
