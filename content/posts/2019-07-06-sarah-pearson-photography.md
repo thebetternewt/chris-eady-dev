@@ -24,3 +24,5 @@ I began by drawing things out with Affinity Designer on my iPad Pro:
 I have recently begun the coding process. Working with [Sanity.io](https://www.sanity.io/) has been challenging but very enjoyable. They're tools for asset management and content structure are simply amazing. If you haven't tried their product as a data source for a JAMstack site, I recommend you totally check them out!
 
 Will post more updates as I make progress on Sarah's site.
+
+**Github link:** <https://github.com/thebetternewt/spp-gatsby>
