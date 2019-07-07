@@ -1,7 +1,10 @@
 ---
 template: BlogIndex
 title: Updates
-subtitle: ''
-featuredImage: 'https://ucarecdn.com/83a3c73d-f234-4086-9fad-cee3a9626230/'
+subtitle: I'll keep you posted.
+featuredImage: 'https://ucarecdn.com/35dcced2-9f5e-4744-b75c-5f911d5940d5/'
+meta:
+  description: I'll keep you posted on what's going on.
+  title: Updates
 ---
 
