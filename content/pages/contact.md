@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Get in touch.
-featuredImage: 'https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/'
+featuredImage: 'https://ucarecdn.com/612abd67-bb72-44a8-a6a1-07850e4152db/'
 subtitle: Let's build something great together.
 address: 'Starkville, MS'
 phone: 662-341-6677
