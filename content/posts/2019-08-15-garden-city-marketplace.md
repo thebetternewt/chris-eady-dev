@@ -13,16 +13,20 @@ meta:
 ## A mini social network for connecting creatives.
 
 ### Technologies Used:
-- NextJS (SSR React)
-- Tailwind CSS
+
+* NextJS (SSR React)
+* Tailwind CSS
 
 ## Fun Features:
-- Embedded videos in video posts.
-- Sitewide-accessible audio player appears when playing an audio file (check out [/audio-post](https://gcp-marketplace-nextjs.netlify.com/audio-post)).
-  + Leverages React's context API.
-  + [react-player](https://www.npmjs.com/package/react-player)
-- Different post types:
-  + [Standard](https://gcp-marketplace-nextjs.netlify.com/post)
-  + [Gallery](https://gcp-marketplace-nextjs.netlify.com/gallery-post)
-  + [Audio](https://gcp-marketplace-nextjs.netlify.com/audio-post)
-  + [Video](https://gcp-marketplace-nextjs.netlify.com/video-post)
+
+* Embedded videos in video posts.
+* Sitewide-accessible audio player appears when playing an audio file (check out [/audio-post](https://gcp-marketplace-nextjs.netlify.com/audio-post)).
+  * Leverages React's context API.
+  * [react-player](https://www.npmjs.com/package/react-player)
+* Different post types:
+  * [Standard](https://gcp-marketplace-nextjs.netlify.com/post)
+  * [Gallery](https://gcp-marketplace-nextjs.netlify.com/gallery-post)
+  * [Audio](https://gcp-marketplace-nextjs.netlify.com/audio-post)
+  * [Video](https://gcp-marketplace-nextjs.netlify.com/video-post)
+
+**Github: [https://github.com/thebetternewt/gcp-marketplace-nextjs](https://github.com/thebetternewt/gcp-marketplace-nextjs)**
